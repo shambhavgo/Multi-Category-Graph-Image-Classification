@@ -29,4 +29,3 @@ The code for training the model is from starting of the notebook up to the secti
 The validation accuracy of the model can also be seen the “Model” section.<br>
 If training the model again,<br>
 Put the “Plot_Data” folder at the path "/content/drive/MyDrive/Plot_Data/" and run the whole code up to the “Model” section.<br>
-The answers to MCQ and Open-ended questions are in MCQ.docx & OEQ.docx.<br>
