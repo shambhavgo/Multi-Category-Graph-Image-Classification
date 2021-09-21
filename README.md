@@ -1,13 +1,13 @@
 # Multi-Category-Graph-Image-Classification
 
-##Complete Code
+## Complete Code
 - Open “CE_Assgnment.ipynb” file for the complete code.
-##Model File
+## Model File
 - File with name “epoch10.pt”.
-##Model Accuracy Report 
+## Model Accuracy Report 
 - File with name “MAR.docx”.
 
-###Data Set Used:
+### Data Set Used:
 vis10cat.txt : 2223 URLs in 10 categories
 A tab-delimited file with each line giving the category and then the URL of an image.
 
