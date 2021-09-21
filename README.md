@@ -8,7 +8,7 @@
 - File with name “MAR.docx”.
 
 ### Data Set Used:
-vis10cat.txt : 2223 URLs in 10 categories\nA tab-delimited file with each line giving the category and then the URL of an image.
+vis10cat.txt : 2223 URLs in 10 categories <br> A tab-delimited file with each line giving the category and then the URL of an image.
 
 Note: The data given in vis10cat.txt after downloading and removing corrupted file was only 759 as many links were not working and some files were corrupted.
 Hence after the training the model on that dataset, model was over fitting.
