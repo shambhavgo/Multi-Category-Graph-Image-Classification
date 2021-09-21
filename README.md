@@ -1,7 +1,7 @@
 # Multi-Category-Graph-Image-Classification
 
 ## Complete Code
-- Open “CE_Assgnment.ipynb” file for the complete code.
+- Open [“CE_Assgnment.ipynb”](CE_Assgnment.ipynb) file for the complete code.
 ## Model File
 - File with name “epoch10.pt”.
 ## Model Accuracy Report 
