@@ -16,7 +16,7 @@ That data is in ["vis10cat Data"](https://bit.ly/3AF8EKg).<br>
 So, in order to train our model in a better way I scraped some data from Google Images one by one using the code given in the file “graphextr.py”.<br>
 That data is in [“Scraped Data"](https://bit.ly/2XMa9bB).<br>
 
-Master folder containing both the data mixed is “Plot_Data” (https://bit.ly/3EwuKkN) having 2864 images to be exact.<br><br>
+Master folder containing both the data mixed is [“Plot_Data”](https://bit.ly/3EwuKkN) having 2864 images to be exact.<br><br>
 
 To run the file,
 1.	Upload the Jupyter Notebook to your Google Collab.
