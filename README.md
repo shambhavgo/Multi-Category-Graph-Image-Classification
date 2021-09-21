@@ -16,12 +16,12 @@ That data is in “https://bit.ly/3AF8EKg”.<br>
 So, in order to train our model in a better way I scraped some data from Google Images one by one using the code given in the file “graphextr.py”.<br>
 That data is in “https://bit.ly/2XMa9bB”.<br>
 
-Master folder containing both the data mixed is named “Plot_Data” having 2864 images to be exact.<br><br>
+Master folder containing both the data mixed is “https://bit.ly/3EwuKkN” having 2864 images to be exact.<br><br>
 
 To run the file,
 1.	Upload the Jupyter Notebook to your Google Collab.
 2.	Mount your google drive from “Mounting Google drive” section in the notebook.
-3.	Place the “epoch10.pt” file in path "/content/drive/MyDrive/encoder/epoch10.pt".
+3.	Place the “epoch10.pt" (https://bit.ly/3lCC5GA) file in path "/content/drive/MyDrive/encoder/epoch10.pt".
 4.	Place the test image in path "/content/test.jpg" having name test.jpg
 5.	Go to the “Run pretrained model From Here” section of the code and run it.
 
