@@ -10,13 +10,13 @@
 ### Data Set Used:
 vis10cat.txt : 2223 URLs in 10 categories <br> A tab-delimited file with each line giving the category and then the URL of an image.
 
-Note: The data given in vis10cat.txt after downloading and removing corrupted file was only 759 as many links were not working and some files were corrupted.
-Hence after the training the model on that dataset, model was over fitting.
-That data is in a folder named “vis10cat Data”.
-So, in order to train our model in a better way I scraped some data from Google Images one by one using the code given in the file “graphextr.py”.
-That data is in a folder named “Scraped Data”.
+Note: The data given in vis10cat.txt after downloading and removing corrupted file was only 759 as many links were not working and some files were corrupted.<br>
+Hence after the training the model on that dataset, model was over fitting.<br>
+That data is in a folder named “vis10cat Data”.<br>
+So, in order to train our model in a better way I scraped some data from Google Images one by one using the code given in the file “graphextr.py”.<br>
+That data is in a folder named “Scraped Data”.<br>
 
-Master folder containing both the data mixed is named “Plot_Data” having 2864 images to be exact.
+Master folder containing both the data mixed is named “Plot_Data” having 2864 images to be exact.<br><br>
 
 To run the file,
 1.	Upload the Jupyter Notebook to your Google Collab.
@@ -25,8 +25,8 @@ To run the file,
 4.	Place the test image in path "/content/test.jpg" having name test.jpg
 5.	Go to the “Run pretrained model From Here” section of the code and run it.
 
-The code for training the model is from starting of the notebook up to the section named “Model”.
-The validation accuracy of the model can also be seen the “Model” section.
-If training the model again,
-Put the “Plot_Data” folder at the path "/content/drive/MyDrive/Plot_Data/" and run the whole code up to the “Model” section.
-The answers to MCQ and Open-ended questions are in MCQ.docx & OEQ.docx.
+The code for training the model is from starting of the notebook up to the section named “Model”.<br>
+The validation accuracy of the model can also be seen the “Model” section.<br>
+If training the model again,<br>
+Put the “Plot_Data” folder at the path "/content/drive/MyDrive/Plot_Data/" and run the whole code up to the “Model” section.<br>
+The answers to MCQ and Open-ended questions are in MCQ.docx & OEQ.docx.<br>
